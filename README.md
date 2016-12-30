@@ -1,6 +1,6 @@
 <uj>
 
-# Téque
+# Tèque
 Welcome to Tèque!
 
 
